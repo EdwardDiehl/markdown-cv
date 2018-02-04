@@ -49,12 +49,12 @@ __Operating Systems:__ GNU/Linux, MacOS X, MS Windows<br>
 
 ## Education
 
-`June 2004 - July 2005`
+`September 2004 - July 2005`
 __East Ukrainian National University named after Volodymyr Dahl__
 
 - Master Degree in Economic Cybernetics
 
-`June 2001 - July 2004`
+`September 2001 - July 2004`
 __East Ukrainian National University named after Volodymyr Dahl__
 
 - Bachelor in Economic Cybernetics
