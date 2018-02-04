@@ -23,7 +23,7 @@ I have more than 7-years work experience as a software developer. My key strengt
 Full-Stack Web Developer
 
 ### Starcoders
-`June 2017 - March 2019`
+`June 2017 - February 2018`
 Web Developer
 
 __Project:__ Dating Platform / Social Network (NDA)<br>
