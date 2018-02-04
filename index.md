@@ -2,14 +2,16 @@
 layout: cv
 title: Isaac Newtons's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Eduard Pliushkin
+Full-Stack Web Developer.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+  <a href="edwdiehl@gmail.com">edwdiehl@gmail.com</a>
+ | <a href="https://www.linkedin.com/in/eduard-pliushkin-12551994/">LinkedIn</a>
+ | <a href="https://twitter.com/EdwardDiehl/">Twitter</a>
 </div>
 
+I have more than 7-years work experience as a software developer. My key strengths are: ability to understand all the details of system requirements, ability to develop high quality and well designed solutions, ability to apply new technologies and tools in a short period of time. The main service areas I am involved in are web solutions. I’m ready to work in a team on interesting projects and technologies.
 
 ## Currently
 
@@ -27,19 +29,15 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`June 2001 - July 2004`
+__East Ukrainian National University named after Volodymyr Dahl.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Bachelor in Economic Cybernetics
 
-- Sizar
+`June 2004 - July 2005`
+__East Ukrainian National University named after Volodymyr Dahl.__
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
+- Master Degree in Economic Cybernetics
 
 
 ## Awards
@@ -58,7 +56,7 @@ Associate, *French Academy of Science*, Paris, France
 ### Journals
 
 `1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+Newton Sir I, De analysi per æquationes numero terminorum infinitas.
 
 `1669`
 Lectiones opticæ.
@@ -87,5 +85,3 @@ __Lucasian professor of Mathematics__, Cambridge University
 <!-- ### Footer
 
 Last updated: May 2013 -->
-
-
