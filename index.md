@@ -11,7 +11,25 @@ Full-Stack Web Developer.
  | <a href="https://twitter.com/EdwardDiehl/">Twitter</a>
 </div>
 
+## Summary
+
 I have more than 7-years work experience as a software developer. My key strengths are: ability to understand all the details of system requirements, ability to develop high quality and well designed solutions, ability to apply new technologies and tools in a short period of time. The main service areas I am involved in are web solutions. I’m ready to work in a team on interesting projects and technologies.
+
+## Working Experience
+
+### DAXX B.V.
+
+`August 2004 - Present`
+Full-Stack Web Developer
+
+### Starcoders
+`June 2017 - March 2019`
+Web Developer
+
+__Project:__ Dating Platform / Social Network (NDA)<br>
+__Role__: Front-end Developer, AngularJS developer<br>
+__Responsibilities:__ Development process planning with other team members, client-side applications development, code reviews<br>
+__Technologies:__ JavaScript, AngularJS 1.5, PHP 5.6, Yii 1.1, MySQL, AWS, git<br>
 
 ## Technical Skills
 
