@@ -6,7 +6,7 @@ title: Eduard Pliushkin's CV
 Full-Stack Web Developer.
 
 <div id="webaddress">
-  <a href="edwdiehl@gmail.com">edwdiehl@gmail.com</a>
+  <a href="mailto:edwdiehl@gmail.com">edwdiehl@gmail.com</a>
  | <a href="https://www.linkedin.com/in/eduard-pliushkin-12551994/">LinkedIn</a>
  | <a href="https://twitter.com/EdwardDiehl/">Twitter</a>
 </div>
