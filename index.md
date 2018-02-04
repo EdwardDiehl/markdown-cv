@@ -7,8 +7,8 @@ Full-Stack Web Developer.
 
 <div id="webaddress">
   <a href="mailto:edwdiehl@gmail.com">edwdiehl@gmail.com</a>
- | <a href="https://www.linkedin.com/in/eduard-pliushkin-12551994/">LinkedIn</a>
- | <a href="https://twitter.com/EdwardDiehl/">Twitter</a>
+ | <a href="https://www.linkedin.com/in/eduard-pliushkin-12551994/" target="_blank">LinkedIn</a>
+ | <a href="https://twitter.com/EdwardDiehl/" target="_blank">Twitter</a>
 </div>
 
 ## Summary
