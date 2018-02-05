@@ -28,18 +28,34 @@ Web Developer
 __Project:__ Dating Platform / Social Network (NDA)<br>
 __Position__: Web Developer, Front-end Developer, AngularJS developer<br>
 __Responsibilities:__ Development process planning with other team members, client-side applications development, code reviews<br>
-__Technologies:__ JavaScript, AngularJS 1.5, PHP 5.6, Yii 1.1, MySQL, AWS, git<br>
+__Technologies:__ JavaScript, AngularJS 1.5, PHP 5.6, Yii 1.1, MySQL, AWS, Docker, git<br>
 
 ### Studytube B.V.
 `August 2014 - February 2017`
 Full-Stack Web Developer
 
-__Project:__ [Studytube (studytube.nl)](https://www.studytube.nl/)
+__Project:__ [Studytube (studytube.nl)](https://www.studytube.nl/)<br>
 Studytube is an e-learning platform which provides full set of tools for online learning and learning process management. The platform consists of a server-side application which provides REST API for several client-side applications. Client-side applications are: online library with courses, courses player, authoring tool which gives experts possibility to develop new courses, learning management system and others.<br>
 __Team:__ 2 server-side developers, 8 client-side developers, 1 web designer, 1 manual tester<br>
 __Position:__ Full-Stack Web Developer, Ruby / Ruby on Rails developer, AngularJS / Angular2 developer<br>
 __Responsibilities:__ Development process planning with other team members, development of client- and server-side applications, writing automated tests, managing development process of one of the client-side applications, code reviews, code quality control, projects architecture development<br>
-__Technologies:__ JavaScript, TypeScript, AngularJS 1.5, Angular 2+, Node.js, grunt, webpack, npm, Ruby 2.3, Ruby on Rails 4.2, Ruby-Grape, DelayedJob, RSpec, REST APIs, MySQL, Redis, AWS, git
+__Technologies:__ JavaScript, TypeScript, AngularJS 1.5, Angular 2+, Node.js, grunt, webpack, npm, HTML, SCSS, Ruby 2.3, Ruby on Rails 4.2, Ruby-Grape, DelayedJob, RSpec, REST APIs, MySQL, Redis, AWS, SemaphoreCI, git
+
+__Project:__ Deployment Tool (internal project of Studytube developers team)<br>
+Deployment Tool is an internal Ruby on Rails applications which is integrated with JIRA, GitHub, SemaphoreCI and Slack APIs. It helps to create release branches in different applications of Studytube platform and deploy them to staging and productions servers.
+__Position:__ Full-Stack Web Developer, Ruby / Ruby on Rails developer<br>
+__Technologies:__ Ruby 2.3, Ruby on Rails 4.2, RSpec, JavaScript, HTML, SCSS, MySQL, git
+
+### INSART Ltd.
+`January 2014 - August 2014`
+Full-Stack Web Developer
+
+__Project:__ [Zenedge (zenedge.com)](https://www.zenedge.com/)<br>
+Zenedge is a web-application security platform.<br>
+__Team:__ 3 full-stack web developers developers, 1 DevOps, 1 project manager, 1 manual tester<br>
+__Position:__ Full-Stack Web Developer, Ruby / Ruby on Rails developer<br>
+__Responsibilities:__ Development process planning with other team members, development of client- and server-side of the application, writing automated tests, code reviews<br>
+__Technologies:__ JavaScript, jQuery, HTML, SCSS, Ruby 1.9.3, Ruby on Rails 3.2, Sidekiq, RSpec, MySQL, Capistrano, AWS, git
 
 ## Technical Skills
 
