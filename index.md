@@ -18,8 +18,7 @@ I have more than 7-years work experience as a software developer. My key strengt
 ## Working Experience
 
 ### DAXX B.V.
-
-`August 2004 - Present`
+`August 2014 - Present`
 Full-Stack Web Developer
 
 ### Starcoders
@@ -27,9 +26,19 @@ Full-Stack Web Developer
 Web Developer
 
 __Project:__ Dating Platform / Social Network (NDA)<br>
-__Role__: Front-end Developer, AngularJS developer<br>
+__Position__: Web Developer, Front-end Developer, AngularJS developer<br>
 __Responsibilities:__ Development process planning with other team members, client-side applications development, code reviews<br>
 __Technologies:__ JavaScript, AngularJS 1.5, PHP 5.6, Yii 1.1, MySQL, AWS, git<br>
+
+### Studytube B.V.
+`August 2014 - February 2017`
+Full-Stack Web Developer
+
+__Project:__ [Studytube (studytube.nl)](https://www.studytube.nl/)
+Studytube is an e-learning platform which provides full set of tools for online learning and learning process management. The platform consists of a server-side application which provides REST API for several client-side applications. Client-side applications are: online library with courses, courses player, authoring tool which gives experts possibility to develop new courses, learning management system and others.
+__Position:__ Full-Stack Web Developer, Ruby / Ruby on Rails developer, AngularJS / Angular2 developer
+__Responsibilities:__ Development process planning with other team members, development of client- and server-side applications, writing automated tests, managing development process of one of the client-side applications, code reviews, code quality control, projects architecture development
+__Technologies:__ JavaScript, TypeScript, AngularJS 1.5, Angular 2+, Node.js, grunt, webpack, npm, Ruby 2.3, Ruby on Rails 4.2, Ruby-Grape, DelayedJob, RSpec, REST APIs, MySQL, Redis, AWS, git
 
 ## Technical Skills
 
