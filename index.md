@@ -74,7 +74,7 @@ __Team:__ 3 full-stack web developers, 1 project manager, 1 ph.d. in mathematics
 __Position:__ Full-Stack Web Developer, Ruby / Ruby on Rails developer<br>
 __Responsibilities:__ Development process planning with other team members, development of client- and server-side of the application, writing automated tests, code reviews
 
-__Project:__ [Chairlift/BetterFeedback (chairlift.io/betterfeedback.com)(https://chairlift.io/)<br>
+__Project:__ [Chairlift/BetterFeedback](chairlift.io/betterfeedback.com)(https://chairlift.io/)<br>
 BetterFeedback is a personal performance management, continuous feedback and employee engagement web-based software.<br>
 __Team:__ 3 full-stack web developers, 2 front-end developers, 1 web designer, 1 project manager, 1 QA<br>
 __Position:__ Full-Stack Web Developer, Ruby / Ruby on Rails developer<br>
