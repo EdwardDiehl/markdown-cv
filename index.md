@@ -140,8 +140,8 @@ Goethe-Zertifikat B1 (Goethe-Institute Certificate B1)
 ## Languages
 __English__ (Pre-Intermediate - Intermediate Level, Working Proficiency)<br>
 __German__ (Pre-Intermediate - Intermediate Level, Working Proficiency)<br>
-__Ukrainian__ (Native proficiency)<br>
-__Russian__ (Native proficiency)<br>
+__Ukrainian__ (Native Proficiency)<br>
+__Russian__ (Native Proficiency)<br>
 
 <!-- ### Footer
 
