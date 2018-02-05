@@ -81,6 +81,17 @@ __Position:__ Full-Stack Web Developer, Ruby / Ruby on Rails developer<br>
 __Technologies:__ JavaScript, CoffeeScript, jQuery, RaphaelJS, SenchaTouch, HTML, SCSS, Ruby 1.9.x, Ruby on Rails 3.x, RSpec, MySQL, AWS, git<br>
 __Responsibilities:__ Development process planning with other team members, development of client- and server-side of the application, writing automated tests, code reviews
 
+### Public Joint Stock Company "State Saving Bank of Ukraine", IT Department
+`July 2005 - November 2010`
+Software Engineer
+
+__Position:__ Software Engineer
+
+### East Ukrainian National University named after Volodymyr Dahl
+`January 2002 - July 2005`
+Computer laboratory assistant
+
+__Position:__ Computer laboratory assistant
 
 ## Technical Skills
 
