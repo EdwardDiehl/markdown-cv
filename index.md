@@ -28,7 +28,7 @@ Web Developer
 __Project:__ Dating Platform / Social Network (NDA)<br>
 __Position__: Web Developer, Front-end Developer, AngularJS developer<br>
 __Responsibilities:__ Development process planning with other team members, client-side applications development, code reviews<br>
-__Technologies:__ JavaScript, AngularJS 1.5, PHP 5.6, Yii 1.1, MySQL, AWS, Docker, git<br>
+__Technologies:__ JavaScript, AngularJS 1.5, HTML, SCSS, PHP 5.6, Yii 1.1, MySQL, AWS, Docker, git<br>
 
 ### Studytube B.V.
 `August 2014 - February 2017`
@@ -44,7 +44,7 @@ __Technologies:__ JavaScript, TypeScript, AngularJS 1.5, Angular 2+, Node.js, gr
 __Project:__ Deployment Tool (internal project of Studytube developers team)<br>
 Deployment Tool is an internal Ruby on Rails applications which is integrated with JIRA, GitHub, SemaphoreCI and Slack APIs. It helps to create release branches in different applications of Studytube platform and deploy them to staging and productions servers.
 __Position:__ Full-Stack Web Developer, Ruby / Ruby on Rails developer<br>
-__Technologies:__ Ruby 2.3, Ruby on Rails 4.2, RSpec, JavaScript, HTML, SCSS, MySQL, git
+__Technologies:__ JavaScript, HTML, SCSS, Ruby 2.3, Ruby on Rails 4.2, RSpec, MySQL, git
 
 ### INSART Ltd.
 `January 2014 - August 2014`
@@ -68,18 +68,19 @@ __Position:__ Full-Stack Web Developer, Ruby / Ruby on Rails developer<br>
 __Responsibilities:__ Development of client- and server-side of the application, writing automated tests, code reviews<br>
 __Technologies:__ JavaScript, CoffeeScript, jQuery, HTML, SCSS, Ruby 1.9.x, Ruby on Rails 3.x, Cucumber, RSpec, PostgreSQL, MongoDB, AWS, git
 
-__Project:__ [Wisemuv (wisemuv.com)](https://www.wisemuv.com/)<br>
-Wisemuv is a web-based software that simplifies insurance purchase process. It is independent decision-helping platform that covers next steps: a diagnostic interview, realtime feedback, facts relevant to interviewee. It helps warranty and insurance companies to sell their services and it helps people to purchase services of insurance companies.<br>
-__Team:__ 3 full-stack web developers, 1 project manager, 1 ph.d. in mathematics (part time)<br>
-__Position:__ Full-Stack Web Developer, Ruby / Ruby on Rails developer<br>
-__Responsibilities:__ Development process planning with other team members, development of client- and server-side of the application, writing automated tests, code reviews
-
 __Project:__ [Chairlift/BetterFeedback (chairlift.io/betterfeedback.com)](https://chairlift.io/)<br>
 BetterFeedback is a personal performance management, continuous feedback and employee engagement web-based software.<br>
 __Team:__ 3 full-stack web developers, 2 front-end developers, 1 web designer, 1 project manager, 1 QA<br>
 __Position:__ Full-Stack Web Developer, Ruby / Ruby on Rails developer<br>
-__Technologies:__ JavaScript, CoffeeScript, jQuery, RaphaelJS, SenchaTouch, HTML, SCSS, Ruby 1.9.x, Ruby on Rails 3.x, RSpec, MySQL, AWS, git<br>
-__Responsibilities:__ Development process planning with other team members, development of client- and server-side of the application, writing automated tests, code reviews
+__Responsibilities:__ Development process planning with other team members, development of client- and server-side of the application, writing automated tests, code reviews<br>
+__Technologies:__ JavaScript, CoffeeScript, jQuery, RaphaelJS, SenchaTouch, HTML, SCSS, Ruby 1.9.x, Ruby on Rails 3.x, RSpec, MySQL, AWS, git
+
+__Project:__ [Wisemuv (wisemuv.com)](https://www.wisemuv.com/)<br>
+Wisemuv is a web-based software that simplifies insurance purchase process. It is independent decision-helping platform that covers next steps: a diagnostic interview, realtime feedback, facts relevant to interviewee. It helps warranty and insurance companies to sell their services and it helps people to purchase services of insurance companies.<br>
+__Team:__ 3 full-stack web developers, 1 project manager, 1 ph.d. in mathematics (part time)<br>
+__Position:__ Full-Stack Web Developer, Ruby / Ruby on Rails developer<br>
+__Responsibilities:__ Development process planning with other team members, development of client- and server-side of the application, writing automated tests, code reviews<br>
+__Technologies:__ JavaScript, CoffeeScript, jQuery, HTML, SCSS, Ruby 1.9.x, Ruby on Rails 3.x, Cucumber, RSpec, PostgreSQL, Heroku, git
 
 ### QuickBlox
 `September 2011 - January 2012`
