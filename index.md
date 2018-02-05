@@ -135,7 +135,7 @@ __East Ukrainian National University named after Volodymyr Dahl__
 
 ## Certification
 `June 2017`
-Goethe-Zertifikat B1 (Goethe- Institute Certificate B1)
+Goethe-Zertifikat B1 (Goethe-Institute Certificate B1)
 
 ## Languages
 __English__ (Pre-Intermediate - Intermediate Level, Working Proficiency)<br>
