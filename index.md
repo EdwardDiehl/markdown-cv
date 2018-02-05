@@ -52,10 +52,35 @@ Full-Stack Web Developer
 
 __Project:__ [Zenedge (zenedge.com)](https://www.zenedge.com/)<br>
 Zenedge is a web-application security platform.<br>
-__Team:__ 3 full-stack web developers developers, 1 DevOps, 1 project manager, 1 manual tester<br>
+__Team:__ 3 full-stack web developers, 1 DevOps, 1 project manager, 1 manual tester<br>
 __Position:__ Full-Stack Web Developer, Ruby / Ruby on Rails developer<br>
 __Responsibilities:__ Development process planning with other team members, development of client- and server-side of the application, writing automated tests, code reviews<br>
 __Technologies:__ JavaScript, jQuery, HTML, SCSS, Ruby 1.9.3, Ruby on Rails 3.2, Sidekiq, RSpec, MySQL, Capistrano, AWS, git
+
+### Sphere Consulting, Inc.
+`January 2012 - December 2013`
+Full-Stack Web Developer
+
+__Project:__ [SitterCity (sittercity.com)](https://www.sittercity.com/)<br>
+SitterCity is a web-service that helps people to find local babysitters, nannies and nanny services.<br>
+__Team:__ 6 full-stack web developers, 1 QA (part time), 1 project manager<br>
+__Position:__ Full-Stack Web Developer, Ruby / Ruby on Rails developer<br>
+__Responsibilities:__ Development of client- and server-side of the application, writing automated tests, code reviews<br>
+__Technologies:__ JavaScript, CoffeeScript, jQuery, HTML, SCSS, Ruby 1.9.x, Ruby on Rails 3.x, Cucumber, RSpec, PostgreSQL, MongoDB, AWS, git
+
+__Project:__ [Wisemuv (wisemuv.com)](https://www.wisemuv.com/)<br>
+Wisemuv is a web-based software that simplifies insurance purchase process. It is independent decision-helping platform that covers next steps: a diagnostic interview, realtime feedback, facts relevant to interviewee. It helps warranty and insurance companies to sell their services and it helps people to purchase services of insurance companies.<br>
+__Team:__ 3 full-stack web developers, 1 project manager, 1 ph.d. in mathematics (part time)<br>
+__Position:__ Full-Stack Web Developer, Ruby / Ruby on Rails developer<br>
+__Responsibilities:__ Development process planning with other team members, development of client- and server-side of the application, writing automated tests, code reviews
+
+__Project:__ [Chairlift/BetterFeedback (chairlift.io/betterfeedback.com)(https://chairlift.io/)<br>
+BetterFeedback is a personal performance management, continuous feedback and employee engagement web-based software.<br>
+__Team:__ 3 full-stack web developers, 2 front-end developers, 1 web designer, 1 project manager, 1 QA<br>
+__Position:__ Full-Stack Web Developer, Ruby / Ruby on Rails developer<br>
+__Technologies:__ JavaScript, CoffeeScript, jQuery, RaphaelJS, SenchaTouch, HTML, SCSS, Ruby 1.9.x, Ruby on Rails 3.x, RSpec, MySQL, AWS, git<br>
+__Responsibilities:__ Development process planning with other team members, development of client- and server-side of the application, writing automated tests, code reviews
+
 
 ## Technical Skills
 
