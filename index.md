@@ -39,7 +39,7 @@ Studytube is an e-learning platform which provides full set of tools for online 
 __Team:__ 2 server-side developers, 8 client-side developers, 1 web designer, 1 manual tester<br>
 __Position:__ Full-Stack Web Developer, Ruby / Ruby on Rails developer, AngularJS / Angular2 developer<br>
 __Responsibilities:__ Development process planning with other team members, development of client- and server-side applications, writing automated tests, managing development process of one of the client-side applications, code reviews, code quality control, projects architecture development<br>
-__Technologies:__ JavaScript, TypeScript, AngularJS 1.5, Angular 2+, Node.js, grunt, webpack, npm, HTML, SCSS, Ruby 2.3, Ruby on Rails 4.2, Ruby-Grape, DelayedJob, RSpec, REST APIs, MySQL, Redis, AWS, SemaphoreCI, git
+__Technologies:__ JavaScript, TypeScript, AngularJS 1.5, Angular 2+, Ember.js, Node.js, grunt, webpack, npm, HTML, SCSS, Ruby 2.3, Ruby on Rails 4.2, Ruby-Grape, DelayedJob, RSpec, REST APIs, MySQL, Redis, SemaphoreCI, AWS, git
 
 __Project:__ Deployment Tool (internal project of Studytube developers team)<br>
 Deployment Tool is an internal Ruby on Rails applications which is integrated with JIRA, GitHub, SemaphoreCI and Slack APIs. It helps to create release branches in different applications of Studytube platform and deploy them to staging and productions servers.
@@ -110,7 +110,7 @@ __Position:__ Computer laboratory assistant
 Web Development, Web Applications, API Development, RESTful WebServices, WebSockets, XML Processing, OOP
 
 __Languages, Frameworks, Libraries, Tools (server-side):__ Ruby, Ruby on Rails, Ruby-Grape, Sinatra, Swagger, Active Merchant, DelayedJob, Sidekiq, Resque, RSpec, MiniTest, Cucumber<br>
-__Languages, Frameworks, Libraries, Tools (client-side):__ Node.js, JavaScript, TypeScript, CoffeeScript, AngularJS, Angular 2+, RxJS, Jasmine, jQuery, WebPack, Gulp, Grunt<br>
+__Languages, Frameworks, Libraries, Tools (client-side):__ Node.js, JavaScript, TypeScript, CoffeeScript, AngularJS, Angular 2+, RxJS, Ember.js, jQuery, Jasmine, WebPack, Gulp, Grunt<br>
 __Markup Languages:__ HTML, HAML, CSS, SCSS<br>
 __Web Servers:__ Nginx, Puma<br>
 __Deployment Tools:__ Capistrano<br>
