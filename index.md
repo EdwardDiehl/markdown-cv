@@ -122,14 +122,12 @@ __Editors/IDEs:__ Atom, VSCode, RubyMine/WebStorm, vim<br>
 __Operating Systems:__ GNU/Linux, MacOS X, MS Windows<br>
 
 ## Education
-
 `September 2004 - July 2005`
 __East Ukrainian National University named after Volodymyr Dahl__
 
 - Master Degree in Economic Cybernetics
 
-`September 2001 -`<br>
-`July 2004`
+`September 2001 - July 2004`
 __East Ukrainian National University named after Volodymyr Dahl__
 
 - Bachelor in Economic Cybernetics
@@ -146,4 +144,4 @@ __Russian__ (Native Proficiency)<br>
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: February 2018 -->
