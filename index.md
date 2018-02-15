@@ -42,7 +42,7 @@ __Responsibilities:__ Development process planning with other team members, deve
 __Technologies:__ JavaScript, TypeScript, AngularJS 1.5, Angular 2+, Ember.js, Node.js, grunt, webpack, npm, HTML, SCSS, Ruby 2.3, Ruby on Rails 4.2, Ruby-Grape, DelayedJob, RSpec, REST APIs, MySQL, Redis, SemaphoreCI, AWS, git
 
 __Project:__ Deployment Tool (internal project of Studytube developers team)<br>
-Deployment Tool is an internal Ruby on Rails applications which is integrated with JIRA, GitHub, SemaphoreCI and Slack APIs. It helps to create release branches in different applications of Studytube platform and deploy them to staging and productions servers.
+Deployment Tool is a Ruby on Rails applications which is integrated with JIRA, GitHub, SemaphoreCI and Slack APIs. It helps to create release branches in different applications of Studytube platform and deploy them to staging and productions servers.<br>
 __Position:__ Full-Stack Web Developer, Ruby / Ruby on Rails developer<br>
 __Technologies:__ JavaScript, HTML, SCSS, Ruby 2.3, Ruby on Rails 4.2, RSpec, MySQL, git
 
@@ -128,7 +128,8 @@ __East Ukrainian National University named after Volodymyr Dahl__
 
 - Master Degree in Economic Cybernetics
 
-`September 2001 - July 2004`
+`September 2001 -`<br>
+`July 2004`
 __East Ukrainian National University named after Volodymyr Dahl__
 
 - Bachelor in Economic Cybernetics
